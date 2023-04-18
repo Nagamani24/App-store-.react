@@ -1,0 +1,17 @@
+/* Write your CSS here */
+
+button {
+  background-color: transparent;
+  border-width: 0px;
+  font-weight: bold;
+}
+
+.active-btn {
+  color: #2563eb;
+  background-color: transparent;
+  border-width: 0px;
+}
+
+.hr-line {
+  margin-top: px;
+}

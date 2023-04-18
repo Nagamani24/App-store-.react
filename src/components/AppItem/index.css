@@ -1,0 +1,27 @@
+/* Write your CSS here */
+
+.item-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  border-radius: 8px;
+  background-color: white;
+  margin: 2%;
+  width: 80px;
+  height: 80px;
+  margin-bottom: 0px;
+}
+
+.image {
+  height: 30px;
+  width: 30px;
+  margin-top: 15px;
+}
+
+p {
+  font-family: Bree Serif;
+  font-size: 10px;
+  padding-bottom: 0px;
+}
